@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond-Price-Prediction
+Version: 0.0.1
+Author: Prashant Kokande
+Author-email: prashant.kokande99@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: flask
